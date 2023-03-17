@@ -1,0 +1,59 @@
+
+
+
+
+<hr id="header" color="darkgreen"/>
+
+| <h1>Maria Akulova</h1>  <div color="red"><h2>Junior Frontend Developer </h2><br></div> <div>Waterloo, Brussel</div> <br>  | | | |
+| ----------- | ----------- | ----------- | ----------- |
+| ****Technical Skills highlights****   |                    | | **Contacts:**       |
+| JavaScript | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15">  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> | | Email: maria.akulova.dragon@gmail.com       |
+| HTML5  | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15">  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15">  | |  Phone: +32479407977      |
+| CSS3  | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> | | Telegram: [@MariaAkulova ](https://t.me/MariaAkulova)       |
+| Git/GitHub  | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> | | Skype: megaandros8       |
+| Jenkins/TeamCity  | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> | | [LinkedIn Profile ](https://www.linkedin.com/in/maria-akulova-istqb-%D1%81tfl-safe-csm-cspo-96b12220/)       ||
+| SQL  | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15">| |  <pre>  **Languages:** </pre> |
+| Docker | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15">  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> | | <pre>  <li> English - B2 (Epam) </li>  </pre> |
+| SonarQube  |<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15">| |  <pre>  <li> Ukrainian - Native </li> </pre> |
+| Sentry/Kibana | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> ||  <pre> <li> Russian - Native </li> </pre> | 
+| Postman  | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> | |  <pre> <li> French - A1 (understand small talk) </li> </pre>|
+|Jira | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15">|| <span style="color:blue, " >**Education:**</span> |
+|Confluence | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15">||Specialist - Nacional'na Metallurgijna Akademija Ukraini (1994-1999)|
+|Agile | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15">|| Java Developer - Maharishi Institute of Management (2003-2004)|
+|Scrum | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15">|||
+
+## About myself
+In the past, I am an experienced QA who has tried herself in different roles. Now I have a new goal - I want to be a creator. A person who can bring new value to the world.
+![](self-presentation.jpg)
+
+## Code example
+**KATA from CODEWARS:Handshake problem**: I like this example because I avoid looping solutions and apply my mathematical knowledge and understanding of the idea of a graph.
+```
+function getParticipants(handshakes){
+//   relationshipCounter = (x*(x-1))/2 - graph nodes formula
+//   x is a count of nodes
+//   handshakes - relationshipCounter
+//   solution is a roots of quadratic equation
+//   formula of quadratic equation: ax2 + bx + c = 0
+  if (handshakes == 0) return 0;
+  let a = 1;
+  let b = -1;
+  let c = -2*handshakes;  
+  let rootPositive, descriminant;
+  
+//   root1 is always negative, so ingore 
+//   descriminant = b2 - 4ac
+  descriminant = b*b-4*a*c;
+  rootPositive = (-b + Math.sqrt(descriminant))/2*a;
+  return Math.ceil(rootPositive);    
+}
+```
+
+## Courses
+- JavaScript Manual on learnjavascript.ru (in progress)
+- RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+## 
+
+
+
