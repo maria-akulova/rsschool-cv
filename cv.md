@@ -7,11 +7,9 @@
 >
 
 
-
-
 |  | | | 
 | ----------- | ----------- | ----------- | 
-| ****Technical Skills highlights****   |                    | **Contacts:**       |
+| **Technical Skills highlights**   |                    | **Contacts:**       |
 | JavaScript | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15">  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> |  Email: maria.akulova.dragon@gmail.com       |
 | HTML5  | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15">  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15">  |   Phone: +32479407977      |
 | CSS3  | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> |  Telegram: [@MariaAkulova ](https://t.me/MariaAkulova)       |
@@ -35,7 +33,7 @@ In the past, I am an experienced QA who has tried herself in different roles. No
 > ## **Code example**
 >
 **KATA from CODEWARS:Handshake problem**: I like this example because I avoid looping solutions and apply my mathematical knowledge and understanding of the idea of a graph.
-```js
+```
 function getParticipants(handshakes){
 //   relationshipCounter = (x*(x-1))/2 - graph nodes formula
 //   x is a count of nodes
@@ -91,9 +89,7 @@ Credential ID 923276
 Scaled Agile, Inc.  
 Issued Nov 2018 · Expired Nov 2019  
 
-> **Callout:** **This is how you write a callout.**
->
-> It can have multiple paragraphs.
+
 
 
 
