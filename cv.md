@@ -32,7 +32,7 @@ In the past, I am an experienced QA who has tried herself in different roles. No
 
 > ## **Code example**
 >
-**KATA from CODEWARS:Handshake problem**: I like this example because I avoid looping solutions and apply my mathematical knowledge and understanding of the idea of a graph.
+**KATA from CODEWARS:Handshake problem**: I like this example because I avoid looping solutions and apply my mathematical knowledge and understanding of the idea of a graph.  
 ```
 function getParticipants(handshakes){
 //   relationshipCounter = (x*(x-1))/2 - graph nodes formula
