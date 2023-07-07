@@ -13,9 +13,9 @@
 |Skype: megaandros8 | | French - A1 (understand small talk)|
 |Discort: maria.akulova.dragon | ||
 |[LinkedIn Profile ](https://www.linkedin.com/in/maria-akulova-istqb-%D1%81tfl-safe-csm-cspo-96b12220/) |||
-||||
+---
 
-|  **Technical Skills highlights**  | **Score**| **Contacts:**  |
+|  **Technical Skills highlights**  | **Score**|  |
 | ----------- | ----------- | ----------- |
 | JavaScript | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15">  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> |     |
 | HTML5  | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15">  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15">  |      |
