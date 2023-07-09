@@ -4,8 +4,100 @@
 <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Document</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <title>CV</title>
     </head>
+
 <body>
+
+  <div class="main">
+    <h1>Maria Akulova</h1>
+    <h2>Junior Frontend Developer</h2>
+    <div>Waterloo, Brussel</div>
+    <table class="contactInfo">
+      <tr>
+        <td class="contactInfo"><div>
+          <img src="small_personal_photo.jpg" alt="SmallPhoto" ">
+        </div></td>
+        <td class="contactInfo"><h2>Contacts:</h2>
+          <ul>
+            <li>Email: maria.akulova.dragon@gmail.com</li>
+            <li><a href="https://www.linkedin.com/in/maria-akulova-istqb-%D1%81tfl-safe-csm-cspo-96b12220/">LinkedIn Profile</a></li>
+          </ul>
+          </td>
+
+      </tr>
+    </table>
+
+
+    <table>
+      <tr>
+
+          <td style="width: 75%; vertical-align:top">
+            <h2>Technical Skills highlights</h2>
+            <table>
+            <tr>
+              <td>Skills</td>
+              <td>Score</td>
+            </tr>
+            <tr>
+              <td>JavaScript</td>
+              <td><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15">  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"></td>
+            </tr>
+            <tr>
+              <td>HTML5</td>
+              <td><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15">  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"></td>
+            </tr>
+            <tr>
+              <td>CSS3</td>
+              <td><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"></td>
+            </tr>
+          </table></td>
+          <td>
+            <h2>About myself</h2>
+            In the past, I am an experienced QA who has tried herself in different roles. Now I have a new goal - I want to be a creator. A person who can bring new value to the world.
+
+            <h2>Code example</h2>
+            <h3>KATA from CODEWARS: Handshake problem</h3> I like this example because I avoid looping solutions and apply my mathematical knowledge and understanding of the idea of a graph.
+            <pre>
+              <code lang="JavaScript">
+                function getParticipants(handshakes){
+                //   relationshipCounter = (x*(x-1))/2 - graph nodes formula
+                //   x is a count of nodes
+                //   handshakes - relationshipCounter
+                //   solution is a roots of quadratic equation
+                //   formula of quadratic equation: ax2 + bx + c = 0
+                  if (handshakes == 0) return 0;
+                  let a = 1;
+                  let b = -1;
+                  let c = -2*handshakes;
+                  let rootPositive, descriminant;
+
+                //   root1 is always negative, so ingore
+                //   descriminant = b2 - 4ac
+                  descriminant = b*b-4*a*c;
+                  rootPositive = (-b + Math.sqrt(descriminant))/2*a;
+                  return Math.ceil(rootPositive);
+                }
+                <code>
+            </pre>
+            <h2>Students projects</h2>
+            <a href="https://maria-akulova.github.io/cssBayan/cssBayan/">cssBayan</a>
+            <h2>Languages</h2>
+            <ul>
+              <li>English - B2 (Epam)</li>
+              <li>Ukrainian - Native</li>
+              <li>French - A1 (understand small talk)</li>
+            </ul>
+            <h2>Education</h2>
+            <ul>
+              <li>Specialist - Nacional'na Metallurgijna Akademija Ukraini (1994-1999)</li>
+              <li>Java Developer - Maharishi Institute of Management (2003-2004)</li>
+            </ul>
+          </td>
+      </tr>
+
+  </table>
+  </div>
 </body>
 </html>
