@@ -11,16 +11,17 @@
   font-family: arial black;
   font-size:1.2rem;
 }
-table {
+.maintable {
   border-collapse: collapse;
   align-self: flex-start;
+  width: 100%;
 }
 td,
-th {
+.maintable tr th {
   border: 1px solid black;
   padding: 10px 20px;
 }
 
-.contactInfo {
+.tablecontactInfo tr  th{
   border:none;
 }
