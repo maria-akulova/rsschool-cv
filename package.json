@@ -1,0 +1,29 @@
+{
+  "name": "rsschool-cv",
+  "version": "1.0.0",
+  "description": "CV tasks from RSS https://maria-akulova.github.io/rsschool-cv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maria-akulova/rsschool-cv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maria-akulova/rsschool-cv/issues"
+  },
+  "homepage": "https://github.com/maria-akulova/rsschool-cv#readme",
+  "devDependencies": {
+    "eslint": "^8.44.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-html": "^7.1.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^3.0.0"
+  }
+}
