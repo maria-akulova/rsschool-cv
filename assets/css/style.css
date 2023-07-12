@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Oswald', sans-serif;
-  src: url("assets/fonts/Oswald/Oswald-VariableFont_wght.ttf");
+  src: url("/assets/fonts/Oswald/Oswald-VariableFont_wght.ttf");
 }
 
 @media (max-width: 768px) {
@@ -16,6 +16,7 @@ html {
 * {
   box-sizing: border-box;
 }
+
 body {
   min-height: 100vh;
   margin: 0;
@@ -24,19 +25,17 @@ body {
 
 }
 
-.container {
-  display: flex;
+.container {    display: flex;
   max-width: 80%;
   margin: 0 auto;
-  background: no-repeat url(assets/svg/rose-petals.svg);
+  background: no-repeat url(/assets/svg/rose-petals.svg);
   background-size: cover;
   color: white;
   font-size: larger;
   flex-wrap: wrap;
-  justify-content: space-between;
-  align-items: center;
-  flex-direction: column;
+  justify-content: center;
 }
+
 
 .navigation-list {
   display: flex;
@@ -84,10 +83,7 @@ body {
   padding-left: 2rem;
   padding-right: 2rem;
   margin: 0 auto;
-  flex-wrap: wrap;
-  flex-direction: row;
-  align-content: flex-start;
-  justify-content: center;
+  flex-direction: column;
 
 }
 .skills {
@@ -101,13 +97,13 @@ body {
 }
 
 .skill-hight-value {
-  background: right/contain content-box border-box no-repeat url('assets/svg/crown-color-icon.svg') rgb(239 187 187 / 41%);
+  background: right/contain content-box border-box no-repeat url('/assets/svg/crown-color-icon.svg') rgb(239 187 187 / 41%);
 }
 .skill-middle-value {
-  background: right/contain content-box border-box no-repeat url('assets/svg/crown.svg') rgb(239 187 187 / 41%);
+  background: right/contain content-box border-box no-repeat url('/assets/svg/crown.svg') rgb(239 187 187 / 41%);
 }
 .skill-low-value {
-  background: right/contain content-box border-box no-repeat url('assets/svg/king-crown-4695.svg') rgb(239 187 187 / 41%);
+  background: right/contain content-box border-box no-repeat url('/assets/svg/king-crown-4695.svg') rgb(239 187 187 / 41%);
 }
 .skill-low-value,
 .skill-middle-value,
