@@ -71,7 +71,7 @@ body {
   margin: 0 auto;
   width: 30%;
   background-color: rgb(35 3 16 / 71%);
-  flex-direction: row;
+  flex-direction: column;
   flex-wrap: wrap;
   align-content: stretch;
   justify-content: center;
