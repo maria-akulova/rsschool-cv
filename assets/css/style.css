@@ -22,20 +22,20 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.5rem;
-
 }
 
-.container {    display: flex;
+.container {
+  display: flex;
   max-width: 80%;
   margin: 0 auto;
-  background: no-repeat url('/rsschool-cv/assets/svg/rose-petals.svg');
+  background: no-repeat url(/rsschool-cv/assets/svg/rose-petals.svg);
   background-size: cover;
   color: white;
   font-size: larger;
-  flex-wrap: wrap;
   justify-content: center;
+  flex-direction: column;
+  align-items: center;
 }
-
 
 .navigation-list {
   display: flex;
@@ -63,7 +63,6 @@ body {
   background-size: cover;
   padding: 5px;
   margin: 0 auto;
-
 }
 
 .left-column {
@@ -71,12 +70,13 @@ body {
   margin: 0 auto;
   width: 30%;
   background-color: rgb(35 3 16 / 71%);
-  flex-direction: row;
+  flex-direction: column;
   flex-wrap: wrap;
   align-content: stretch;
   justify-content: center;
   align-items: center;
 }
+
 .central-column {
   display: flex;
   width: 69%;
@@ -84,8 +84,8 @@ body {
   padding-right: 2rem;
   margin: 0 auto;
   flex-direction: column;
-
 }
+
 .skills {
   font: 1rem 'Fira Sans', sans-serif;
 }
@@ -93,18 +93,20 @@ body {
 .skills-item {
   margin: 1rem;
   padding: 0.3rem;
-
 }
 
 .skill-hight-value {
   background: right/contain content-box border-box no-repeat url('/rsschool-cv/assets/svg/crown-color-icon.svg') rgb(239 187 187 / 41%);
 }
+
 .skill-middle-value {
   background: right/contain content-box border-box no-repeat url('/rsschool-cv/assets/svg/crown.svg') rgb(239 187 187 / 41%);
 }
+
 .skill-low-value {
   background: right/contain content-box border-box no-repeat url('/rsschool-cv/assets/svg/king-crown-4695.svg') rgb(239 187 187 / 41%);
 }
+
 .skill-low-value,
 .skill-middle-value,
 .skill-hight-value
@@ -119,6 +121,7 @@ body {
   width: 80%;
   margin: 0 auto;
 }
+
 h2 {
   font-family: 'Oswald', sans-serif;
   color: white;
@@ -127,6 +130,7 @@ h2 {
   letter-spacing: 0.5rem;
   margin: 0;
 }
+
 h1 {
   font-family:  'Oswald', sans-serif;
   font-size: 2rem;
@@ -154,17 +158,16 @@ h1 + h2 {
   margin-bottom: 2rem;
 }
 
-
 .break-line {
   margin-bottom: 3rem;
   width: 80%;
 }
 
-
 p {
   margin: 0.5rem;
   padding: 0.5rem;
 }
+
 a {
   color: white;
   transition: color 0.5s;
@@ -187,7 +190,6 @@ details {
   margin-top: 1.5rem;
   margin-left: 2.5rem;
 }
-
 
 .footer-image {
   width: 5rem;
