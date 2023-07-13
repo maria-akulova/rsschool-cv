@@ -26,7 +26,7 @@ body {
 
 .container {
   display: flex;
-  max-width: 80%;
+  max-width: 55%;
   margin: 0 auto;
   background: no-repeat url(/rsschool-cv/assets/svg/rose-petals.svg);
   background-size: cover;
