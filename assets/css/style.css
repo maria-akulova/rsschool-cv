@@ -75,10 +75,7 @@ body {
   width: 30%;
   background-color: rgb(35 3 16 / 71%);
   flex-direction: column;
-  flex-wrap: wrap;
-  align-content: stretch;
-  justify-content: center;
-  align-items: center;
+  flex-wrap: nowrap;
 }
 
 .central-column {
