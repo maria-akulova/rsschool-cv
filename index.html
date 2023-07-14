@@ -113,24 +113,23 @@
                 <p>I like this example because I avoid looping solutions and apply my mathematical knowledge and understanding of the idea of a graph. </p>
                 <pre>
                   <code>
-                    function getParticipants(handshakes){
-                    //   relationshipCounter = (x*(x-1))/2 - graph nodes formula
-                    //   x is a count of nodes
-                    //   handshakes - relationshipCounter
-                    //   solution is a roots of quadratic equation
-                    //   formula of quadratic equation: ax2 + bx + c = 0
-                      if (handshakes == 0) return 0;
-                      let a = 1;
-                      let b = -1;
-                      let c = -2*handshakes;
-                      let rootPositive, descriminant;
-
-                    //   root1 is always negative, so ignore
-                    //   descriminant = b2 - 4ac
-                      descriminant = b*b-4*a*c;
-                      rootPositive = (-b + Math.sqrt(descriminant))/2*a;
-                      return Math.ceil(rootPositive);
-                    }
+function getParticipants(handshakes){
+//   relationshipCounter = (x*(x-1))/2 - graph nodes formula
+//   x is a count of nodes
+//   handshakes - relationshipCounter
+//   solution is a roots of quadratic equation
+//   formula of quadratic equation: ax2 + bx + c = 0
+  if (handshakes == 0) return 0;
+  let a = 1;
+  let b = -1;
+  let c = -2*handshakes;
+  let rootPositive, descriminant;
+//   root1 is always negative, so ignore
+//   descriminant = b2 - 4ac
+  descriminant = b*b-4*a*c;
+  rootPositive = (-b + Math.sqrt(descriminant))/2*a;
+  return Math.ceil(rootPositive);
+}
                   </code>
                 </pre>
             </details>
