@@ -54,6 +54,10 @@ body {
   transition: 1s;
 }
 
+.navigation-item {
+  position: sticky;
+}
+
 .main {
   display: flex;
   flex-wrap: nowrap;
