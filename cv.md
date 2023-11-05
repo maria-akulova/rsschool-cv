@@ -63,6 +63,8 @@ I'm currently working part-time as a front-end developer and am hoping to find a
 
 > ## Code example:
 Returns the product of two specified matrixes:
+
+
  * @param {array} m1
  * @param {array} m2
  * @return {array}
