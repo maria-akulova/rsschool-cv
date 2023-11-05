@@ -45,29 +45,19 @@ I'm currently working part-time as a front-end developer and am hoping to find a
 > ## Skills and Proficiency:
 
 
-                          * HTML5, CSS3
+                          * HTML5, CSS3                           * Postman
 
-                          * JavaScript Basics
+                         * Jenkins/TeamCity                     * SonarQube
 
-                          * Git, GitHub
+                         * Sentry/Kibana                            * SQL/PL SQL
 
-                         * VS Code, IntelliJ IDEA
+                         * Agile, Scrum, SAFe                   * Jira, Confluence
 
-                         * Jira, Confluence
+                         * JavaScript Basics                      * VS Code, IntelliJ IDEA
 
-                         * SQL/PL SQL
+                         * Git, GitHub                        
 
-                         * Postman
 
-                         * Jenkins/TeamCity
-
-                         * SonarQube
-
-                         * Sentry/Kibana
-
-                         * Agile, Scrum, SAFe
-
-                         * Docker
 
 > ## Code example:
 
