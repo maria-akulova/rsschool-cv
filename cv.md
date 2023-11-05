@@ -87,7 +87,7 @@ function getMatrixProduct(m1, m2) {
 > ## Courses:
 * JavaScript Manual on learnjavascript.ru (in progress)
 
-* RS Schools Course «JavaScript/Front-end. Stage 0» 
+* [RS Schools Course «JavaScript/Front-end. Stage 0»](https://app.rs.school/certificate/6adl7rou)
 * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
 
