@@ -66,6 +66,8 @@ Returns the product of two specified matrixes:
  * @param {array} m1
  * @param {array} m2
  * @return {array}
+
+   
 ```
 function getMatrixProduct(m1, m2) {
   const result = Array(m1.length);
