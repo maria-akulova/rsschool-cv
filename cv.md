@@ -8,28 +8,28 @@
 > ## Contact information:
 
 
-**Phone:** +380957838840
+                   **Phone:** +380957838840
 
-**E-mail:** maria.akulova.dragon@gmail.com
+                   **E-mail:** maria.akulova.dragon@gmail.com
 
-**Telegram:** [@maria-akulova](https://t.me/MariaAkulova)
+                   **Telegram:** [@maria-akulova](https://t.me/MariaAkulova)
 
-**Skype:** megaandros8
+                   **Skype:** megaandros8
 
-**Discort:** maria.akulova.dragon
+                   **Discort:** maria.akulova.dragon
 
-[LinkedIn](https://www.linkedin.com/in/maria-akulova-96b12220/)
+                   [LinkedIn](https://www.linkedin.com/in/maria-akulova-96b12220/)
 
 > ## Languages:
 
 
-* English - B1/B2 (according to the Epam test)
+                  * English - B1/B2 (according to the Epam test)
 
-* Ukrainian - Native
+                  * Ukrainian - Native
 
-* Russian - Native
+                  * Russian - Native
 
-* French - A1 (in progress to A2)
+                  * French - A1 (in progress to A2)
 
 > ## Briefly About Myself:
 
@@ -45,29 +45,29 @@ I'm currently working part-time as a front-end developer and am hoping to find a
 > ## Skills and Proficiency:
 
 
-* HTML5, CSS3
+                          * HTML5, CSS3
 
-* JavaScript Basics
+                          * JavaScript Basics
 
-* Git, GitHub
+                          * Git, GitHub
 
-* VS Code, IntelliJ IDEA
+                         * VS Code, IntelliJ IDEA
 
-* Jira, Confluence
+                         * Jira, Confluence
 
-* SQL/PL SQL
+                         * SQL/PL SQL
 
-* Postman
+                         * Postman
 
-* Jenkins/TeamCity
+                         * Jenkins/TeamCity
 
-* SonarQube
+                         * SonarQube
 
-* Sentry/Kibana
+                         * Sentry/Kibana
 
-* Agile, Scrum, SAFe
+                         * Agile, Scrum, SAFe
 
-* Docker
+                         * Docker
 
 > ## Code example:
 
@@ -101,10 +101,12 @@ function getMatrixProduct(m1, m2) {
 > ## Courses:
 
 
-* JavaScript Manual on learnjavascript.ru (in progress)
+                     * JavaScript Manual on learnjavascript.ru (in progress)
 
-* [RS Schools Course «JavaScript/Front-end. Stage 0»](https://app.rs.school/certificate/6adl7rou)
-* RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+                     * [RS Schools Course «JavaScript/Front-end. Stage 0»](https://app.rs.school/certificate/6adl7rou)
+                     
+                     
+                     * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
 
 > ## **Licenses & certifications**
