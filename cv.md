@@ -1,74 +1,97 @@
+[rsschool-cv](https://maria-akulova.github.io/rsschool-cv)
+===
+# Maria Akulova
 
+### **Junior Frontend Developer**  
+**Address:** Waterloo, Brussel
 
-<h1>Maria Akulova</h1>
+> ## Contact information: 
+**Phone:** +380957838840
 
-> ## **Junior Frontend Developer**  
->Waterloo, Brussel  
->  
-|**Contacts:** || **Languages:**||  <span style="color:blue" >**Education:**</span>|
-|-|-|-|-|-|
-|Email: maria.akulova.dragon@gmail.com    | |English - B2 (Epam)||Specialist - Nacional'na Metallurgijna Akademija Ukraini (1994-1999)|
-|Phone: +32479407977  | | Ukrainian - Native ||Java Developer - Maharishi Institute of Management (2003-2004)|
-| Telegram: [@MariaAkulova ](https://t.me/MariaAkulova)    | | Russian - Native|
-|Skype: megaandros8 | | French - A1 (understand small talk)|
-|Discort: maria.akulova.dragon | ||
-|[LinkedIn Profile ](https://www.linkedin.com/in/maria-akulova-istqb-%D1%81tfl-safe-csm-cspo-96b12220/) |||
----
+**E-mail:** maria.akulova.dragon@gmail.com
 
-|  **Technical Skills highlights**  | **Score**|  |
-| ----------- | ----------- | ----------- |
-| JavaScript | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15">  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> |     |
-| HTML5  | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15">  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15">  |      |
-| CSS3  | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> |     |
-| Git/GitHub  | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> |  |
-| Jenkins/TeamCity  | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> |    |
-| SQL  | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15">|   |
-| Docker | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15">  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> | |
-| SonarQube  |<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15">|    |
-| Sentry/Kibana | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> |  | 
-| Postman  | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> |  |
-|Jira | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15">| |
-|Confluence | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15">||
-|Agile | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15">||
-|Scrum | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="15" height="15">||
+**Telegram:** [@maria-akulova](https://t.me/MariaAkulova)
 
+**Skype:** megaandros8
 
-> ## **About myself**
->
-In the past, I am an experienced QA who has tried herself in different roles. Now I have a new goal - I want to be a creator. A person who can bring new value to the world.
-![](self-presentation.jpg)
+**Discort:** maria.akulova.dragon
 
-> ## **Code example**
->
-**KATA from CODEWARS:Handshake problem**: I like this example because I avoid looping solutions and apply my mathematical knowledge and understanding of the idea of a graph.
+[LinkedIn](https://www.linkedin.com/in/maria-akulova-96b12220/)
+
+> ## Languages:
+* English - B1/B2 (according to the Epam test)
+
+* Ukrainian - Native
+
+* Russian - Native
+
+* French - A1 (in progress to A2)
+
+> ## Briefly About Myself:
+I started my professional journey as a Java developer at Nadra Bank in Ukraine, with minimal experience. However, my determination to write short and useful programs quickly became apparent. Intrigued by the intricacies of web technologies, I moved to a QA position in an IT company with the prospect of becoming a front-end C# developer. My keen attention to detail and responsibility have led to significant advances in manual, automated testing and quality management over the past 20 years.
+
+Due to my move to Belgium, I had the opportunity to start learning Front-End development with a focus on JavaScript. The world of web development has captivated me because it offers endless possibilities for creating useful applications. I have a genuine passion for learning and have received numerous certifications in various areas including Scrum, SAFe, Business Analysis, RestAPI in Testing, Java, and JavaScript Automation. Moreover, the IT industry offers many high-quality educational resources and a thriving developer community.
+
+My journey in front-end development is based on my unwavering commitment to learning and acquiring new skills. I am confident that this path will lead me to become a highly skilled Frontend Developer.
+
+I'm currently working part-time as a front-end developer and am hoping to find a new role that involves full stack development.
+
+> ## Skills and Proficiency:
+* HTML5, CSS3
+
+* JavaScript Basics
+
+* Git, GitHub
+
+* VS Code, IntelliJ IDEA
+
+* Jira, Confluence
+
+* SQL/PL SQL
+
+* Postman
+
+* Jenkins/TeamCity
+
+* SonarQube
+
+* Sentry/Kibana
+
+* Agile, Scrum, SAFe
+
+* Docker
+
+> ## Code example:
+Returns the product of two specified matrixes:
+ * @param {array} m1
+ * @param {array} m2
+ * @return {array}
 ```
-function getParticipants(handshakes){
-//   relationshipCounter = (x*(x-1))/2 - graph nodes formula
-//   x is a count of nodes
-//   handshakes - relationshipCounter
-//   solution is a roots of quadratic equation
-//   formula of quadratic equation: ax2 + bx + c = 0
-  if (handshakes == 0) return 0;
-  let a = 1;
-  let b = -1;
-  let c = -2*handshakes;
-  let rootPositive, descriminant;
+function getMatrixProduct(m1, m2) {
+  const result = Array(m1.length);
+  for (let i = 0; i < m2[0].length; i += 1) {
+    result[i] = Array(m2[0].length);
+  }
+  if (m1[0].length !== m2.length) return undefined;
+  for (let i = 0; i < m1.length; i += 1) {
+    for (let j = 0; j < m2[0].length; j += 1) {
+      result[i][j] = (m1[i][0] * m2[0][j] + m1[i][1] * m2[1][j] + m1[i][2] * m2[2][j]);
+    }
+  }
 
-//   root1 is always negative, so ingore
-//   descriminant = b2 - 4ac
-  descriminant = b*b-4*a*c;
-  rootPositive = (-b + Math.sqrt(descriminant))/2*a;
-  return Math.ceil(rootPositive);
+  return result;
 }
 ```
 
->## **Courses**
->
-- JavaScript Manual on learnjavascript.ru (in progress)
-- RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+> ## Courses:
+* JavaScript Manual on learnjavascript.ru (in progress)
+
+* RS Schools Course «JavaScript/Front-end. Stage 0» 
+* RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
 
 > ## **Licenses & certifications**
->
 
 
 - **Certified Tester, Foundation LevelCertified Tester, Foundation Level**
