@@ -20,16 +20,16 @@
 
                    [LinkedIn](https://www.linkedin.com/in/maria-akulova-96b12220/)
 
+                   [GitHub](https://github.com/maria-akulova)
+
 > ## Languages:
 
 
-                  * English - B1/B2 (according to the Epam test)
+                   English - B1/B2 (according to the Epam test)                   Ukrainian - Native
 
-                  * Ukrainian - Native
+                   French - A1 (in progress to A2)                                           Russian - Native
 
-                  * Russian - Native
 
-                  * French - A1 (in progress to A2)
 
 > ## Briefly About Myself:
 
